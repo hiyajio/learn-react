@@ -1,1 +1,1 @@
-# Learn React - JavaScript
+# Learn React
