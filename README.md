@@ -1,3 +1,3 @@
 # Learn React
 
-Documentation of progress learning the framework/library: Go/Golang.
+Documentation of progress learning the front-end framework/library: React.
